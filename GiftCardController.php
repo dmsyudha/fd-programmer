@@ -1,0 +1,1 @@
+if ($amount < 0) return response()->json(['error'=>'Cannot use negative amount.']);

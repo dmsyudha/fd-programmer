@@ -1,0 +1,1 @@
+<input class="input" name="claim_value" type="number" placeholder="0" value="0" min="1" disabled>
